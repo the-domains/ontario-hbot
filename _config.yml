@@ -1,19 +1,4 @@
-name: Ontario HBOT
-favicon: null
-layout_spectrum: 0.7630608705803752
 typography_spectrum: 0.8945242930203676
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#ADD7F6'
@@ -25,4 +10,20 @@ color:
   lightness: 0.5037007660139352
   saturation: 0.6697450848296285
   rhythmicContrast: 0.5285798374097794
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.7630608705803752
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Ontario HBOT
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
+title: Ontario HBOT
 purpose: []
