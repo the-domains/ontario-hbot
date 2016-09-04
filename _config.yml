@@ -19,6 +19,11 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Derek Fayle
+  email: derekfayle@ontariohbot.ca
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/b766bd00-a779-4aeb-8eaf-ba22e33e7f52.png
 name: Ontario HBOT
 cta:
   domain: null
